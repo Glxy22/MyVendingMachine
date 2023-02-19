@@ -1,0 +1,4 @@
+02/16/2023 03:42:39 FEED MONEY: $12.0 Your new balance : $12.0
+02/16/2023 03:42:39 FEED MONEY: $2.0 Your new balance : $14.0
+02/16/2023 03:42:39 Potato Crisps a1 $3.05 Your change : $$10.95
+02/16/2023 03:42:39 Mountain Melter c3 $1.5 Your change : $$9.45
